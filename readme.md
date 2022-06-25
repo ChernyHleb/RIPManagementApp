@@ -24,4 +24,6 @@
 # 2. Реализация
 ### ER Диаграмма
 ![ER diagram](https://github.com/ChernyHleb/RIPManagementApp/blob/database/diagrams/ER%20diagram.png)
+- T-SQL [скрипт](https://github.com/ChernyHleb/RIPManagementApp/blob/database/TSQL%20scripts/Create%20DB.sql) для создания БД и таблиц
+- T-SQL [скрипт](https://github.com/ChernyHleb/RIPManagementApp/blob/database/TSQL%20scripts/Insert%20values%20into%20tables.sql) заполняющий таблицы значениями
 
