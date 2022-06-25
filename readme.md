@@ -21,5 +21,7 @@
 - Создавать/Редактировать/Удалять пользователей
 - Отображать списки компаний и пользователей компании
 
-# 2. Диаграммы
+# 2. Реализация
+### ER Диаграмма
+![ER diagram](https://github.com/ChernyHleb/RIPManagementApp/blob/database/diagrams/ER%20diagram.png)
 
